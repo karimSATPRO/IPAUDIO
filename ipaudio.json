@@ -1,1 +1,130 @@
 
+{
+    "streams": [
+        {
+            
+ 
+"name": "Sportify",
+"display_name":"Sportify Live 1 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 2 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 3 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"     
+},{
+"name": "Sportify",
+"display_name":"Sportify FM 4", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 5 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 6 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 7 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 8 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify Live 9 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify italy 1 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify italy 2 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify SSC 1 HD"
+, "url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify SSC EXTRA 1 HD", "url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify AFCON 1", "url":"https://audio.sportify-fm.live/Sportify-Afcon1/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify AFCON 2", "url":"https://audio.sportify-fm.live/Sportify-Afcon2/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Sportify ASIAN CUP 1", "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/mpegts"     
+},{
+"name": "Sportify",
+"display_name":"Sportify ASIAN CUP 2", "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/mpegts"
+},{
+"name": "Sportify",
+"display_name":"Alkass Extra One", "url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/mpegts"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 1 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 2 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 3 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/index.m3u8"     
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 4 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-4/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 5 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-5/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 6 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify FM 7 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify italy 1 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Italy-1/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify italy 2 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-Italy-2/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify SSC 1 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-SSC-1/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify SSC EXTRA 1 (D)", "url":"http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify AFCON 1 (D)", "url":"https://audio.sportify-fm.live/Sportify-Afcon1/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify AFCON 2 (D)", "url":"https://audio.sportify-fm.live/Sportify-Afcon2/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Sportify ASIAN CUP 1 (D)", "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP1/index.m3u8"     
+},{
+"name": "Sportifyd",
+"display_name":"Sportify ASIAN CUP 2 (D)", "url":"https://audio.sportify-fm.live/Sportify-Asian-CUP2/index.m3u8"
+},{
+"name": "Sportifyd",
+"display_name":"Alkass Extra 1 (D)", "url":"https://audio.sportify-fm.live/Sportify-AlkassExtraOne/index.m3u8"
+},{
+"name": "ANIS",
+"display_name":"Anis FM", "url":"http://78.129.185.84:36764/stream/1/"
+},{
+"name": "ANIS",
+"display_name":"Anis FM 2", "url":"http://78.129.185.84:36764/stream/3/"
+},{
+"name": "ANIS",
+"display_name":"Anis FM 3", "url":"http://78.129.185.84:36764/stream/5/"
+},{
+"name": "ANIS",
+"display_name":"Anis FM low 1", "url":"http://78.129.185.84:36764/stream/2/"
+},{
+"name": "ANIS",
+"display_name":"Anis FM low 2", "url":"http://78.129.185.84:36764/stream/4/"
+},{
+"name": "ANIS",
+"display_name":"Anis FM low 3", "url":"http://78.129.185.84:36764/stream/6/"
+
+        }
+    ]
+}
